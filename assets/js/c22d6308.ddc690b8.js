@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_docs=self.webpackChunkdev_docs||[]).push([[955],{3464:e=>{e.exports=JSON.parse('{"label":"myself","permalink":"/kkorner/tags/myself","allTagsPath":"/kkorner/tags","count":1,"items":[{"id":"bio","title":"Bio","description":"Bio","permalink":"/kkorner/bio"}]}')}}]);

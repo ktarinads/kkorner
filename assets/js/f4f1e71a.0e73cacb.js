@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_docs=self.webpackChunkdev_docs||[]).push([[83],{8813:e=>{e.exports=JSON.parse('{"label":"writing","permalink":"/kkorner/tags/writing","allTagsPath":"/kkorner/tags","count":1,"items":[{"id":"intro","title":"Thought drafts","description":"This is my new experience on writing my thoughts and ideas.","permalink":"/kkorner/"}]}')}}]);

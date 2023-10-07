@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_docs=self.webpackChunkdev_docs||[]).push([[505],{961:e=>{e.exports=JSON.parse('{"label":"organization","permalink":"/kkorner/tags/organization","allTagsPath":"/kkorner/tags","count":1,"items":[{"id":"buying-time","title":"Buying Time","description":"(from sseraphini)","permalink":"/kkorner/buying-time"}]}')}}]);
