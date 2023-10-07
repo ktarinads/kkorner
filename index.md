@@ -1,6 +1,0 @@
----
-title: Woah...
----
-### Nothing around here...
-
-|_u-u_|
