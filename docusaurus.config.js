@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'kkorner',
   tagline: 'Long thoughts',
-  url: 'http://sibelius.github.io',
+  url: 'http://ktarinads.github.io',
   baseUrl: '/kkorner',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
