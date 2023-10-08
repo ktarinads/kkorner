@@ -69,7 +69,7 @@ module.exports = {
           path: './docs',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: ({ locale, versionDocsDirPath, docPath }) => {
-            return `https://github.com/ktarinads/kkorner/zettelkasten/edit/main/${versionDocsDirPath}/${docPath}`;
+            return `https://github.com/ktarinads/kkorner/edit/main/${versionDocsDirPath}/${docPath}`;
           },
           editCurrentVersion: true,
           remarkPlugins: [require('mdx-mermaid')],
